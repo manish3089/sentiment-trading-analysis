@@ -11,11 +11,6 @@ venv/
 env/
 .venv/
 
-# Data files (optional — keep raw data out of repo if large/private)
-*.csv
-*.parquet
-*.xlsx
-*.json
 
 # Logs and outputs
 *.log

@@ -1,6 +1,6 @@
-# 📊 Fear vs Greed Trader Analysis
+#  Fear vs Greed Trader Analysis
 
-## 📌 Overview
+##  Overview
 
 This project analyzes how market sentiment (Fear vs Greed) impacts trader performance and behavior.
 It focuses on key metrics such as:
@@ -20,8 +20,8 @@ The goal is to understand whether traders perform differently and change behavio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fear-vs-greed-trader-analysis.git
-cd fear-vs-greed-trader-analysis
+git clone https://github.com/manish3089/sentiment-trading-analysis
+cd sentiment-trading-analysis
 ```
 
 ### 2. Create virtual environment (recommended)
@@ -32,15 +32,9 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
 
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 ### Option 1: Run Jupyter Notebook
 
@@ -53,43 +47,18 @@ jupyter notebook
 
 ---
 
-### Option 2: Run Python Script (if applicable)
-
-```bash
-python src/main.py
-```
-
----
-
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
 * PnL distribution across sentiment regimes
 * Win rate comparison (Fear vs Greed)
 * Trade frequency and activity patterns
 * Position sizing behavior
 * Long vs Short bias analysis
-* Trader segmentation (e.g., high vs low win rate)
+* Trader segmentation (e.g., consistent vs inconsistent)
 
 ---
 
-## 📈 Outputs
-
-* Boxplots (PnL distribution)
-* Bar charts (Win rate, trade size, frequency)
-* Summary tables for sentiment comparison
-
----
-
-## 🧠 Key Insights
-
-* Win rate remains relatively stable across sentiment regimes
-* PnL variability increases during Fear periods
-* Traders are more active and take larger risks during Fear
-* Greed phases show more controlled and cautious behavior
-
----
-
-## 📌 Requirements
+##  Requirements
 
 * Python 3.8+
 * pandas
