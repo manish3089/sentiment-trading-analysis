@@ -100,11 +100,3 @@ python src/main.py
 
 ---
 
-## 🚀 Future Improvements
-
-* Add statistical significance tests
-* Include leverage analysis
-* Build predictive sentiment-based trading model
-
----
-
