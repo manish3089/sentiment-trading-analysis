@@ -108,8 +108,3 @@ python src/main.py
 
 ---
 
-## 👤 Author
-
-Manish Chaudhary
-
----
